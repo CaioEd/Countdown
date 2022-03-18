@@ -1,6 +1,6 @@
 <h1 align="center">Countdown</h1>
  <p align="center"> <strong>Page with a countdown to a launch.</strong> </p>
- <h2 > <a  href=""> Link para o site </a> </h2>
+ <h2 > <a  href="https://infallible-roentgen-d852d8.netlify.app/"> Link para o site </a> </h2>
  <img  src="print-site.jpg" alt="print do site">
  <br>
 <h2>Tecnologies used in this project </h2>
